@@ -1,45 +1,61 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:1e3c72&height=200&section=header&text=Beley%20Gomez%20Urdaneta&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+## 👋 ¡Hola! Soy Beley Gomez Urdaneta
+### 💻 Backend Developer | Automation & Web Scraping Specialist
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=435&lines=Python+Expert;Advanced+Web+Scraping;Data+Analysis+%7C+Pandas;Process+Automation)](https://git.io/typing-svg)
+
+---
+
+### 🛠️ Herramientas y Tecnologías
+
+<img src="https://skillicons.dev/icons?i=python,linux,git,github" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" style="vertical-align: middle; margin-left: 5px;" />
+
+---
+
+### 📦 Portafolio de Soluciones
+
+<div align="left">
+
+🔹 **[Python Sales Report Bot](https://github.com/ble-bot/python-sales-report-bot)** > Sistema de automatización para la generación de informes comerciales detallados utilizando **Pandas** para el procesamiento eficiente de datos.
+> `Python` `Pandas` `Business Intelligence`
+
+🔹 **[Price Tracker Scraper](https://github.com/ble-bot/price-tracker-scraper-v1)** > Herramienta de web scraping de alta precisión para el monitoreo y seguimiento de fluctuaciones de precios en tiempo real.
+> `Scraping` `Automation` `Data Collection`
+
+🔹 **[Smart File Organizer CLI](https://github.com/ble-bot/smart-file-organizer-cli)** > Utilidad de línea de comandos para la gestión inteligente y organización automatizada de archivos, manteniendo tu espacio de trabajo eficiente.
+> `CLI` `Scripting` `Productivity`
+
+</div>
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+*Métricas dinámicas de mi actividad y desarrollo profesional:*
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:1e3c72&height=200&section=header&text=Beley%20Gomez%20Urdaneta&fontSize=40&fontColor=ffffff"/>
-</p>👋 Hola, soy Beley Gomez Urdaneta
+  <img src="https://github-readme-stats.vercel.app/api?username=ble-bot&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ble-bot&layout=compact&theme=tokyonight&hide_border=false" width="40%" />
+</p>
 
-💻 Desarrollador enfocado en automatización con Python
-
-Creo herramientas para automatizar tareas, procesar datos y construir utilidades de línea de comandos.
-
----
-
-🚀 Tecnologías
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ble-bot&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="89%" />
+</p>
 
 ---
 
-📦 Proyectos
+### 📫 Hablemos de tu próximo proyecto
+*¿Tienes un proyecto en mente? ¡Hablemos!*
 
-""Readme Card" (https://github-readme-stats.vercel.app/api/pin/?username=ble-bot&repo=python-sales-report-bot&theme=tokyonight)" (https://github.com/ble-bot/python-sales-report-bot)
-
-""Readme Card" (https://github-readme-stats.vercel.app/api/pin/?username=ble-bot&repo=price-tracker-scraper-v1&theme=tokyonight)" (https://github.com/ble-bot/price-tracker-scraper-v1)
-
-""Readme Card" (https://github-readme-stats.vercel.app/api/pin/?username=ble-bot&repo=smart-file-organizer-cli&theme=tokyonight)" (https://github.com/ble-bot/smart-file-organizer-cli)
-
----
-
-📊 Estadísticas
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ble-bot&show_icons=true&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ble-bot&layout=compact&theme=tokyonight"></p>---
-
-👀 Visitas al perfil
-
-"Profile Views" (https://komarev.com/ghpvc/?username=ble-bot&color=blue)
+<p align="center">
+<a href="mailto:Beleyyoyo@gmail.com"><img src="https://img.shields.io/badge/Contactar%20por%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" hspace="5"></a>
+</p>
 
 ---
 
-📫 Contacto
+<img src="https://komarev.com/ghpvc/?username=ble-bot&label=VISITAS%20AL%20PERFIL&color=2a5298&style=flat-square" alt="Vistas" />
 
-📧 Beleyyoyo@gmail.com
+</div>
