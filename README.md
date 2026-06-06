@@ -31,10 +31,10 @@
 
 <div align="left">
 
-🚀 **[AI Agent Workflows (n8n + LangChain)](#)**
-Diseño y despliegue de agentes autónomos que integran **OpenAI** con herramientas de productividad mediante **n8n**, automatizando flujos de trabajo complejos de principio a fin.
+🚀 **[AI Agent Workflows (LangChain)](https://github.com/ble-bot/BeexxAI-Agent)**
+Diseño y despliegue de agentes autónomos que integran **OpenAI** con herramientas de productividad mediante **LangChain**, automatizando flujos de trabajo complejos de principio a fin.
 
-🔗 **[FastAPI Integration Hub](#)**
+🔗 **[FastAPI Integration Hub](https://github.com/ble-bot/pdf_translator)**
 Desarrollo de microservicios robustos con **FastAPI** para la conexión de APIs de terceros, procesamiento de datos en tiempo real y escalabilidad backend.
 
 👟 **[ZAPATOS.LAB - Premium E-commerce](https://github.com/ble-bot/zapatos-lab)**
