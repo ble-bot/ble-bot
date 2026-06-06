@@ -34,7 +34,7 @@
 🚀 **[AI Agent Workflows (LangChain)](https://github.com/ble-bot/BeexxAI-Agent)**
 Diseño y despliegue de agentes autónomos que integran **OpenAI** con herramientas de productividad mediante **LangChain**, automatizando flujos de trabajo complejos de principio a fin.
 
-🔗 **[FastAPI Integration Hub](https://github.com/ble-bot/pdf_translator)**
+🔗 **[Traductor de PDFs (FastAPI + LangChain)](https://github.com/ble-bot/pdf_translator)**
 Desarrollo de microservicios robustos con **FastAPI** para la conexión de APIs de terceros, procesamiento de datos en tiempo real y escalabilidad backend.
 
 👟 **[ZAPATOS.LAB - Premium E-commerce](https://github.com/ble-bot/zapatos-lab)**
@@ -43,6 +43,11 @@ Prototipo e-commerce de alto rendimiento con arquitectura "Zero-Build". Integra 
 📊 **[Python Sales Report Bot](https://github.com/ble-bot/python-sales-report-bot)**
 Automatización avanzada de reportes comerciales utilizando **Pandas** para el procesamiento de grandes volúmenes de datos.
 
+📩 **[Email Automation](https://github.com/ble-bot/Email_automation-)**
+Automatización avanzada para extracción de información usando **IMAP** para el empezar el procesamiento y extracción de la Información requerida.
+
+⛏️ **[Products Scraping - Pro e-commerce](https://github.com/ble-bot/price-tracker-scraper-v1)**
+Automatización para la extracción de información del sitio web [Book toScaper](books.toscrape.com) (Sitio de prueba legal) usando diferentes habilidades de extracción, limpieza y guardado (excel).
 </div>
 
 ---
