@@ -1,40 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:1e3c72&height=200&section=header&text=Beley%20Gomez%20Urdaneta&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:1e3c72&height=220&section=header&text=Beley%20Gomez%20Urdaneta&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 ## 👋 ¡Hola! Soy Beley Gomez Urdaneta
-### 💻 Backend Developer | Automation & Web Scraping Specialist
+### 🤖 AI Solutions Architect | Backend & Automation Expert
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=435&lines=Python+Expert;Advanced+Web+Scraping;Data+Analysis+%7C+Pandas;Process+Automation)](https://git.io/typing-svg)
-
----
-
-### 🛠️ Herramientas y Tecnologías
-
-<img src="https://skillicons.dev/icons?i=python,linux,git,github" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" style="vertical-align: middle; margin-left: 5px;" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=550&lines=AI+Agents+%7C+LangChain+%26+OpenAI;Backend+Specialist+%7C+FastAPI;Workflows+Automation+%7C+n8n;High-Performance+Web+Scraping)](https://git.io/typing-svg)
 
 ---
 
-### 📦 Portafolio de Soluciones
+### 🛠️ Stack Tecnológico Moderno
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,linux,git,github,docker,bash" />
+</div>
+
+<br>
+
+| **Especialidad** | **Herramientas & Frameworks** |
+| :--- | :--- |
+| **Inteligencia Artificial** | `OpenAI API`, `LangChain`, `LLMs`, `Prompt Engineering` |
+| **Backend & APIs** | `FastAPI`, `Python`, `RESTful APIs`, `Webhook Integrations` |
+| **Automatización** | `n8n`, `Process Automation`, `Workflow Design` |
+| **Data Engineering** | `Advanced Web Scraping`, `Pandas`, `Data Mining` |
+| **Web Development** | `React`, `Tailwind CSS`, `Modern UI/UX Design` |
+
+---
+
+### 📦 Portafolio de Soluciones Inteligentes
 
 <div align="left">
 
-🔹 **[Python Sales Report Bot](https://github.com/ble-bot/python-sales-report-bot)** > Sistema de automatización para la generación de informes comerciales detallados utilizando **Pandas** para el procesamiento eficiente de datos.
-> `Python` `Pandas` `Business Intelligence`
+🚀 **[AI Agent Workflows (n8n + LangChain)](#)**
+Diseño y despliegue de agentes autónomos que integran **OpenAI** con herramientas de productividad mediante **n8n**, automatizando flujos de trabajo complejos de principio a fin.
 
-🔹 **[Price Tracker Scraper](https://github.com/ble-bot/price-tracker-scraper-v1)** > Herramienta de web scraping de alta precisión para el monitoreo y seguimiento de fluctuaciones de precios en tiempo real.
-> `Scraping` `Automation` `Data Collection`
+🔗 **[FastAPI Integration Hub](#)**
+Desarrollo de microservicios robustos con **FastAPI** para la conexión de APIs de terceros, procesamiento de datos en tiempo real y escalabilidad backend.
 
-🔹 **[Smart File Organizer CLI](https://github.com/ble-bot/smart-file-organizer-cli)** > Utilidad de línea de comandos para la gestión inteligente y organización automatizada de archivos, manteniendo tu espacio de trabajo eficiente.
-> `CLI` `Scripting` `Productivity`
+👟 **[ZAPATOS.LAB - Premium E-commerce](https://github.com/ble-bot/zapatos-lab)**
+Prototipo e-commerce de alto rendimiento con arquitectura "Zero-Build". Integra **React**, **Tailwind** y una pasarela de pedidos directa a **WhatsApp Business API**.
+
+📊 **[Python Sales Report Bot](https://github.com/ble-bot/python-sales-report-bot)**
+Automatización avanzada de reportes comerciales utilizando **Pandas** para el procesamiento de grandes volúmenes de datos.
 
 </div>
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-*Métricas dinámicas de mi actividad y desarrollo profesional:*
+### 📊 Actividad Profesional en GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ble-bot&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
@@ -47,15 +60,12 @@
 
 ---
 
-### 📫 Hablemos de tu próximo proyecto
-*¿Tienes un proyecto en mente? ¡Hablemos!*
+### 📫 Conectemos
+¿Tienes un proyecto que necesite inteligencia y automatización?
 
-<p align="center">
-<a href="mailto:Beleyyoyo@gmail.com"><img src="https://img.shields.io/badge/Contactar%20por%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" hspace="5"></a>
+<p align="left">
+<a href="https://wa.me/573234312418" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="mailto:tu-email@ejemplo.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=ble-bot&label=VISITAS%20AL%20PERFIL&color=2a5298&style=flat-square" alt="Vistas" />
 
 </div>
