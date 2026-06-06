@@ -68,9 +68,9 @@ Automatización para la extracción de información del sitio web [Book toScaper
 ### 📫 Conectemos
 ¿Tienes un proyecto que necesite inteligencia y automatización?
 
-<p align="left">
-<a href="https://wa.me/573234312418" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href="mailto:tu-email@ejemplo.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+<div style="display: flex; justify-content: center; gap: 1rem;">
+  <a href="https://wa.me/573234312418" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="mailto:tu-email@ejemplo.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 </div>
